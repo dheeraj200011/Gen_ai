@@ -6,3 +6,5 @@ seaborn
 flask
 memory_profiler
 scikit-learn
+nltk
+gensim
